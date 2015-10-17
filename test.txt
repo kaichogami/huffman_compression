@@ -1,0 +1,1 @@
+I have a string (it could be an integer too) in Python and I want to write it to a file. It contains only ones and zeros I want that pattern of ones and zeros to be written to a file. I want to write the binary directly because I need to store a lot of data, but only certain values. I see no need to take up the space of using eight bit per value when I only need three.
